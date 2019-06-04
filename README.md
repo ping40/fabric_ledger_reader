@@ -177,5 +177,5 @@ result:
 ## kown problem or limits
 
 - the vaule of id_bytes is cut off.
-- no test on idmex
+- no test on idemix
 - only to show HeaderType_ENDORSER_TRANSACTION and HeaderType_CONFIG
